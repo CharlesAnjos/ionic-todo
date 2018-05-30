@@ -21,4 +21,12 @@ export class HomePage {
     ]
   }
 
+  addItem(){
+
+  }
+
+  viewItem(){
+    
+  }
+
 }
