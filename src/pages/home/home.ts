@@ -12,7 +12,7 @@ export class HomePage {
   public items = [];
 
   constructor(public navCtrl: NavController, public modalCtrl: ModalController) {
-
+    
   }
 
   addItem(){
